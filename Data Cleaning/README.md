@@ -8,7 +8,7 @@ After that starting the cleanign process with removing the duplicated rows.
 
 After removing the duplication, I started to trim and clean the columns as much as possible to make sure they are consistent.
 
-After that I took care of data column which could cause issue as it wasn't in the right type.
+After that I took care of data column which could cause issue as it wasn't the right type.
 
 In the next step I tried to address the missing values by populating some of them including the industries and removing the NULL rows.
 
